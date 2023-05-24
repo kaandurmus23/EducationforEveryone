@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>25618890352-p7javiudfkj3bbh8gc3i2ecv8q3l9m0j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.25618890352-p7javiudfkj3bbh8gc3i2ecv8q3l9m0j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVycp97RAA4nyFcm2HR8APfagHiLKL1sc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>25618890352</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Kaan.EducationforEveryone</string>
+	<key>PROJECT_ID</key>
+	<string>educationforeveryone-2257d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>educationforeveryone-2257d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:25618890352:ios:83e2f523ea47a8cabffeb5</string>
+</dict>
+</plist>
